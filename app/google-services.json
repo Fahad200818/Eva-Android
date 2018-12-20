@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "549506813993",
+    "firebase_url": "https://salesforcetracker-c6f96.firebaseio.com",
+    "project_id": "salesforcetracker-c6f96",
+    "storage_bucket": "salesforcetracker-c6f96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549506813993:android:fbe698a6934db894",
+        "android_client_info": {
+          "package_name": "com.tracking.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549506813993-fthvnfmnm135aivgoj45uqh6taupasjp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tracking.store",
+            "certificate_hash": "117a1c8479b3f3ee504639ce6c5eefbcf3ed496c"
+          }
+        },
+        {
+          "client_id": "549506813993-ed5bi2uh10obl0s3dmghvel7dmkntmgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZZvZLm0Yrt7AgwzgY7tCW8jYgwZ_wHL4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549506813993-ed5bi2uh10obl0s3dmghvel7dmkntmgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/irfan/Documents/GBSC/StoreForceTrackingProduction/simple-crop-image-lib/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="fdb7a775e71f47885b441df25345f39e37fa7562">
+        <dex dex="/Users/irfan/Documents/GBSC/StoreForceTrackingProduction/app/build/intermediates/transforms/dex/debug/folders/1000/4/classes_86066e9b064ed1e29481dbe064164f87ca26ee05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/irfan/.gradle/caches/modules-2/files-2.1/com.michaelpardo/activeandroid/3.1.0-SNAPSHOT/4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08/activeandroid-3.1.0-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08">
+        <dex dex="/Users/irfan/Documents/GBSC/StoreForceTrackingProduction/app/build/intermediates/transforms/dex/debug/folders/1000/10/activeandroid-3.1.0-SNAPSHOT_6307ff8bb6f73da07a103677344840d38bfa55f1/classes.dex" />
+    </item>
+
+</items>
